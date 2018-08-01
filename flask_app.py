@@ -12,7 +12,7 @@ engine = create_engine(Pokedex)
 
 @app.route('/', methods=['Get'])
 def index():
-    return render_template('main_page2.html')
+    return render_template('main_page.html')
 
 @app.route('/pokedex', methods=['Get'])
 def index2():
