@@ -1,0 +1,73 @@
+body{
+    background-color:#33ccff;
+}
+#logo{
+    width:750px;
+    font-size:75px;
+    font-family:monospace;
+    color:#ff0606;
+    border-style:solid;
+    border-color:#ff0066;
+    background-color: white;
+    text-align:center;
+    border-width:5px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+}
+#search-line{
+    text-align:center;
+}
+#search-bar{
+    height:10px;
+    width:500px;
+    border-radius:4px;
+    border:1px solid;
+    padding:10px;
+}
+#search-results{
+    border:solid;
+    background-color:white;
+    width:750px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+}
+#sort{
+    text-align:center;
+    }
+#filter{
+    text-align:center;
+}
+/*
+.StatLow{
+    border-width:0px;
+    }
+.StatHigh{
+    border-width:0px;
+    }
+.Generation{
+    border-width:0px;
+    }
+.Legendary{
+    border-width:0px;
+    }
+.Type{
+    border-width:0px;
+    }
+#StatLow, #StatHigh, #Legendary, #Type, #Name, #Alpahbetically, #Number, #Generation{
+    background-color: white;
+}
+*/
+#disclamer{
+    text-align:center;
+    }
+.copyright{
+    text-align:center;
+    font-size:12px;
+}
+li{
+    padding:10px;
+}
+.
+
